@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:soheil.norouzi@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/soheilnorouzi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google%20Scholar-View-blue?style=flat&logo=googlescholar" alt="Scholar"></a>
+  <a href="mailto:nrzi.soheil@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/soheil-norouzi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=vELuEIoAAAAJ&hl=en)"><img src="https://img.shields.io/badge/Google%20Scholar-View-blue?style=flat&logo=googlescholar" alt="Scholar"></a>
 </p>
 
 ---
@@ -27,10 +27,9 @@ I'm a biomedical engineering student with a passion for building intelligent, hu
 
 ### 📌 What I'm Working On
 
-- 🧠 EEG-based diagnosis & staging of **schizophrenia and schizoaffective disorders**
-- 🦿 Reinforcement learning + disturbance observer controllers for **lower-limb exoskeletons**
-- 🧬 Multimodal medical image enhancement using **EEG spatial maps + MRI**
-- 💡 Class projects in **image processing**, **biological systems design**, and **medical electronics**
+- 🧠 EEG-based diagnosis of neuropsychiatric disorders  
+- 🦿 RL-based control systems for robotic exoskeletons 
+- 💡 Hands-on projects in image processing
 
 ---
 
@@ -40,33 +39,27 @@ I'm a biomedical engineering student with a passion for building intelligent, hu
   Presented at ICCIA 2023, Tehran  
 - 🤖 Internship at **ARAS Robotic Co.**
 - 🎓 Teaching Assistant for *Statics and Strength of Materials*
-- 💻 Organizer of workshops & programming contests at **Computer Science Association (UT)**
+- 💻 Organizer of workshops & programming contests at **Computer Science Association (University of Tabriz)**
 
 ---
 
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks)
 ![MNE](https://img.shields.io/badge/MNE-Python-00599C?style=flat&logo=neuralink&logoColor=white)
-
----
-
-### 🧠 Learning Goals
-
-- Deepen my knowledge of **reinforcement learning** for robotics  
-- Build projects with **machine learning + biomedical signals**  
-- Collaborate on open-source tools for **neuro-AI applications**
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E60026?style=flat&logo=solidworks&logoColor=white)
 
 ---
 
 ### 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/soheilnorouzi](https://www.linkedin.com/in/soheilnorouzi)
-- Email: soheil.norouzi@example.com *(replace with real one)*
+- LinkedIn: [linkedin.com/in/soheilnorouzi](https://www.linkedin.com/in/soheil-norouzi)
+- Email: nrzi.soheil@gmail.com
 - Always happy to collaborate or talk about cool projects!
 
 ---
