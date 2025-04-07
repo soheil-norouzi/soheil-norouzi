@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Soheil Norouzi 👋
 
-<!--
-**soheil-norouzi/soheil-norouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Biomedical Engineering undergrad passionate about merging **AI, neuroscience, and robotics** to build intelligent systems that care.
 
-Here are some ideas to get you started:
+## 🔬 Currently working on:
+- EEG-based diagnostics for **schizophrenia and schizoaffective disorders**
+- Reinforcement learning controllers for **robotic exoskeletons**
+- Medical image processing projects combining **EEG, MRI, and AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests:
+- **AI in healthcare** 🤖❤️‍🩹  
+- **Computational neuroscience** 🧠  
+- **Reinforcement learning** for control systems  
+- Open-source projects that make tech more human-centric
+
+## 🚀 Highlights:
+- Co-authored a paper on **3D path planning for AUVs**
+- Interned at ARAS Robotic Co.
+- Organize programming events & workshops through my university's CS association
+
+📌 Always learning, always building.
+
+Let’s connect and collaborate on projects that matter!
