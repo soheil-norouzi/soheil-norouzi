@@ -65,5 +65,5 @@ I'm a biomedical engineering student with a passion for building intelligent, hu
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soheilnorouzi&show_icons=true&theme=default" alt="Soheil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soheil-norouzi&show_icons=true&theme=default" alt="Soheil's GitHub Stats" />
 </p>
