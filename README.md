@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Soheil Norouzi -->
 
-<h1 align="center">Hi there, I'm Soheil Norouzi 👋</h1>
+<h1 align="center">Hi there, I'm Soheil Norouzi </h1>
 
 <p align="center">
   Biomedical Engineering undergrad | AI in Healthcare | Robotics & Neuroscience Enthusiast
@@ -18,32 +18,32 @@
 
 I'm a biomedical engineering student with a passion for building intelligent, human-centered systems. My work lies at the intersection of:
 
-- 🤖 **AI in healthcare**
-- 🧠 **Computational neuroscience**
-- ⚙️ **Robotics & control systems**
-- 🧪 **Biomedical signal processing (EEG, MRI/fMRI)**
+-  **AI in healthcare**
+-  **Computational neuroscience**
+-  **Robotics & control systems**
+-  **Biomedical signal processing (EEG, MRI/fMRI)**
 
 ---
 
-### 📌 What I'm Working On
+###  What I'm Working On
 
-- 🧠 EEG-based diagnosis of neuropsychiatric disorders  
-- 🦿 RL-based control systems for robotic exoskeletons 
-- 💡 Hands-on projects in image processing
+-  EEG-based diagnosis of neuropsychiatric disorders  
+-  RL-based control systems for robotic exoskeletons 
+-  Hands-on projects in image processing
 
 ---
 
-### 🚀 Experience & Achievements
+###  Experience & Achievements
 
-- 📄 Co-author of *"Path planning design for autonomous underwater vehicles in 3D environments"*  
+-  Co-author of *"Path planning design for autonomous underwater vehicles in 3D environments"*  
   Presented at ICCIA 2023, Tehran  
-- 🤖 Internship at **ARAS Robotic Co.**
-- 🎓 Teaching Assistant for *Statics and Strength of Materials*
-- 💻 Organizer of workshops & programming contests at **Computer Science Association (University of Tabriz)**
+-  Internship at **ARAS Robotic Co.**
+-  Teaching Assistant for *Statics and Strength of Materials*
+-  Organizer of workshops & programming contests at **Computer Science Association (University of Tabriz)**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -56,7 +56,7 @@ I'm a biomedical engineering student with a passion for building intelligent, hu
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 - LinkedIn: [linkedin.com/in/soheilnorouzi](https://www.linkedin.com/in/soheil-norouzi)
 - Email: nrzi.soheil@gmail.com
