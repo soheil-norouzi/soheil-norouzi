@@ -14,7 +14,7 @@
 
 ---
 
-### 🔬 About Me
+###  About Me
 
 I'm a biomedical engineering student with a passion for building intelligent, human-centered systems. My work lies at the intersection of:
 
