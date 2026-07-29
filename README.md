@@ -32,7 +32,7 @@ Alongside my core research I work across applied ML and computer vision — from
 
 - **EEG-based classification of psychiatric disorders** — Manuscript in preparation.
 - **[DC-DC converter paper title]** — IEEE, 2025. [[DOI/link](https://ieeexplore.ieee.org/abstract/document/11213845)]
-- **"Path planning design for autonomous underwater vehicles in 3D environments avoiding static obstacles"** — presented at ICCIA 2023, Tehran. [https://ieeexplore.ieee.org/abstract/document/10506387]
+- **"Path planning design for autonomous underwater vehicles in 3D environments avoiding static obstacles"** — presented at ICCIA 2023, Tehran. [[DOI/link](https://ieeexplore.ieee.org/abstract/document/10506387)]
 - Completed **Neuromatch Academy** training in computational neuroscience.
 
 ---
