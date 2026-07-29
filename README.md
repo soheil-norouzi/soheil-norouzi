@@ -24,7 +24,7 @@ I'm a Biomedical Engineering graduate from the University of Tabriz, focused on 
 
 Alongside my core research I work across applied ML and computer vision — from YOLOv8-based detection pipelines to XGBoost models — and treat these as tools for whatever problem is in front of me, not a fixed specialty.
 
-🔭 **Currently:** building a startup, taking on freelance ML/data work, and applying to graduate programs in computational neuroscience / biomedical AI.
+🔭 **Currently:** taking on freelance ML/data work, and applying to graduate programs in computational neuroscience / biomedical AI.
 
 ---
 
@@ -39,19 +39,13 @@ Alongside my core research I work across applied ML and computer vision — from
 
 ### Featured Projects
 
-> *Replace these with your actual repos — evidence beats description.*
+**[Image-Processing]**
+`Python` `MNE` `scikit-learn`
+[[→ repo link](https://github.com/soheil-norouzi/Image-Processing)]
 
-**[Project name]**
-One line on what it does and why it's interesting. `Python` `MNE` `scikit-learn`
-[→ repo link]
-
-**[Project name]**
+**[Generalization-of-V1-Neural-Representations]**
 One line on what it does and why it's interesting. `YOLOv8` `OpenCV` `MediaPipe`
-[→ repo link]
-
-**[Project name]**
-One line on what it does and why it's interesting. `XGBoost` `Pandas`
-[→ repo link]
+[[→ repo link](https://github.com/soheil-norouzi/Generalization-of-V1-Neural-Representations)]
 
 ---
 
