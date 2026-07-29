@@ -40,11 +40,11 @@ Alongside my core research I work across applied ML and computer vision — from
 ### Featured Projects
 
 **[Image-Processing]**
-`Python` `MNE` `scikit-learn`
+`YOLOv8` `OpenCV` `MediaPipe`
 [[→ repo link](https://github.com/soheil-norouzi/Image-Processing)]
 
 **[Generalization-of-V1-Neural-Representations]**
-One line on what it does and why it's interesting. `YOLOv8` `OpenCV` `MediaPipe`
+One line on what it does and why it's interesting. `Python` `MNE` `scikit-learn`
 [[→ repo link](https://github.com/soheil-norouzi/Generalization-of-V1-Neural-Representations)]
 
 ---
